@@ -1,0 +1,64 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+body {
+  text-align: center;
+  min-width: 300px;
+  color: #D3D3D3;
+  font-family: sans-serif;
+}
+
+
+#main {
+  background-color: gray;
+  text-align: center;
+  padding: 30px;
+}
+
+#title {
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  margin: 10px;
+}
+
+#sub-title {
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  margin: 10px;
+}
+
+#img-div {
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Roberto',sans-serif;
+  text-align: left;
+  list-style: inside;
+  max-width: 500px;
+}
+
+#source_page {
+  color: blue;
+}
+
+#tribute-link {
+  color: blue;
+}
